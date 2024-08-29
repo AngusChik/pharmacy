@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container mt-4">
+    {% if messages %}
+        <div class="alert alert-warning">
+            {% for message in messages %}
+                <p>{{ message }}</p>
+            {% endfor %}
+        </div>
+    {% endif %}
+    
+    <h2>Order {{ order.order_id }}</h2>
+
+    <form method="post" class="mb-4">
+        {% csrf_token %}
+        <div class="form-group">
+            <label for="id_barcode">Scan or Enter Barcode:</label>
+            {{ form.barcode }}
+        </div>
+        <div class="form-group">
+            <label for="id_quantity">Quantity:</label>
+            {{ form.quantity }}
+        </div>
+        <button type="submit" class="btn btn-primary">Add to Order</button>
+    </form>
+
+    <h3>Current Order Details</h3>
+    <ul class="list-group mb-4">
+        {% for detail in order_details %}
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                {{ detail.quantity }} x {{ detail.product.name }}
+                <span class="badge badge-primary badge-pill">${{ detail.price|floatformat:2 }}</span>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <div class="d-flex justify-content-between align-items-center">
+        <h4>Total Price Before Tax: ${{ total_price_before_tax|floatformat:2 }}</h4>
+        <h4>Total Price After Tax (13%): ${{ total_price_after_tax|floatformat:2 }}</h4>
+        <form method="post" action="{% url 'submit_order' %}">
+            {% csrf_token %}
+            <button type="submit" class="btn btn-success">Submit Order</button>
+        </form>
+    </div>
+</div>
+{% endblock %}

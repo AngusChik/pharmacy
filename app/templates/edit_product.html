@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block title %}Edit Product{% endblock %}
+
+{% block content %}
+    <h1>Edit Product</h1>
+    <form method="post" style="max-width: 500px; margin: auto;">
+        {% csrf_token %}
+
+        <div style="display: flex; flex-direction: column;">
+            <div style="margin-bottom: 10px;">
+                <label for="name" style="display: inline-block; width: 150px;">Name:</label>
+                {{ form.name }}
+            </div>
+
+            <div style="margin-bottom: 10px;">
+                <label for="item_number" style="display: inline-block; width: 150px;">Item Number:</label>
+                {{ form.item_number }}
+            </div>
+
+            <div style="margin-bottom: 10px;">
+                <label for="brand" style="display: inline-block; width: 150px;">Brand:</label>
+                {{ form.brand }}
+            </div>
+
+            <div style="margin-bottom: 10px;">
+                <label for="barcode" style="display: inline-block; width: 150px;">Barcode:</label>
+                {{ form.barcode }}
+            </div>
+
+            <div style="margin-bottom: 10px;">
+                <label for="price" style="display: inline-block; width: 150px;">Price:</label>
+                {{ form.price }}
+            </div>
+
+            <div style="margin-bottom: 10px;">
+                <label for="quantity_in_stock" style="display: inline-block; width: 150px;">Quantity:</label>
+                {{ form.quantity_in_stock }}
+            </div>
+
+            <div style="margin-bottom: 10px;">
+                <label for="description" style="display: inline-block; width: 150px;">Description:</label>
+                {{ form.description }}
+            </div>
+
+            <div style="margin-bottom: 10px;">
+                <label for="category" style="display: inline-block; width: 150px;">Category:</label>
+                {{ form.category }}
+            </div>
+
+            <div style="margin-bottom: 10px;">
+                <label for="unit_size" style="display: inline-block; width: 150px;">Unit Size:</label>
+                {{ form.unit_size }}
+            </div>
+
+            <button type="submit" style="margin-top: 20px;">Save changes</button>
+        </div>
+    </form>
+
+    <a href="{% url 'inventory_display' %}" style="display: block; text-align: center; margin-top: 20px;">Back to Inventory</a>
+{% endblock %}

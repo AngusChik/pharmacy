@@ -1,0 +1,605 @@
+product_id,name,brand,price,barcode,item_number,quantity_in_stock,description,unit_size,category_id,discount 
+1,anti-itch,aveeno,15.99,381370036906,794594,1,,118ml,3,Yes
+2,Skincare Oil 200,bio oil,37.99,891038001028,537407,1,,200 ml,3,Yes
+3,Skincare Oil 125,bio oil,25.99,891038001011,788992,1,,125 ml,3,Yes
+4,Foaming facial cleanser,cerave,24.99,3606000552593,111122,1,,562 ml,3,Yes
+5,Hydrating Cleanser,cerave,25.99,3606000546349,145837,1,,562 ml,3,Yes
+6,Hydrating cream-to-foam,cerave,22.99,3606000569119,154438,1,,562 ml,3,Yes
+7,Moisturizing Cream ,cerave,35.99,3606000531673,133539,1,,562 ml,3,Yes
+8,Acne Foaming Cleanser,cerave,23.99,3606000552791,165820,1,,150,3,Yes
+9,Cetaphil,cetaphil,19.99,772618075007,606376,1,,500,3,Yes
+10,Cetaphil,cetaphil,14.99,772618072501,606368,1,,250,3,Yes
+11,Restoraderm Body Wash,cetaphil,16.99,772618233001,915645,1,,255,3,Yes
+12,Cliniderm,cliniderm,21.99,369787091008,151362,1,,100,3,Yes
+13,Gentle Shampoo,cliniderm,21.99,369787032407,149719,1,,240,3,Yes
+14,Healing Ointment,eucerin,19.99,56594014053,147260,1,,190,3,Yes
+15,Hand Cream,glysomed,12.99,41388005003,64924,1,,200,3,Yes
+16,Moisturizing Cream,GlaxalBase,29.99,365197323142,133728,1,,450,3,Yes
+17,Pure epsom Salt,Dr.Teals,11.99,811068017691,153231,1,,3 lbs,3,Yes
+18,Pure epsom Salt,Dr.Teals,11.99,811068015024,153232,1,,3 lbs,3,Yes
+19,Pure epsom Salt,Dr.Teals,11.99,811068010708,153233,1,,3 lbs,3,Yes
+20,Vitamin B2 (Riboflavin) 100mg Caplets,Jamieson,16.99,64642022097,631028,1,,100 ct,6,Yes
+21,Vitamin B6 (Pyridoxine) 100 mg Tablets,Jamieson,16.99,64642020222,299222,1,,100 ct,6,Yes
+22,"Vitamin B12 5,000 mcg Tablets",Jamieson,20.99,64642091277,251371,1,,45 ct,6,Yes
+23,"Vitamin B12 1,000 mcg Fast Dissolving Sublingual Tablets Value Size",Jamieson,27.99,64642079572,97971,1,,150 ct,6,Yes
+24,"Vitamin B12 1,200 Mcg Timed Release",Jamieson,17.99,64642028235,159061,1,,80 ct,6,Yes
+25,Vitamin B6 + B12 and Folic Acid Caplets,Jamieson,16.99,64642053268,970202,1,,90 ct,6,Yes
+26,"Biotin 10,000 mcg Softgels Value Size",Jamieson,29.99,64642091758,222222,1,,90 ct,6,Yes
+27,MegaCal Calcium 650mg,Jamieson,22.99,64642048707,230771,1,,120 ct,6,Yes
+28,Mega Cal Calcium 650 mg + Vitamin D3 400 IU Value Size,Jamieson,19.99,64642079619,230730,1,,250 ct,6,Yes
+29,Calcium Citrate Plus Vitamin D3 Caplets,Jamieson,19.99,64642028471,122387,1,,120 ct,6,Yes
+30,Chewable Vitamin C 500 mg Tangy Orange Flavour,Jamieson,14.99,64642020314,198515,1,,120 ct,6,Yes
+31,"Vitamin C 1,000 mg",Jamieson,21.99,64642020789,892877,1,,100 ct,6,Yes
+32,Cod Liver Oil Softgels + Vitamin A + D3,Jamieson,14.99,64642022363,9811,1,,100 ct,6,Yes
+33,Cranberry 250 mg Capsules,Jamieson,16.99,64642067739,18800,1,,100 ct,6,Yes
+34,Cranberry Complex 500 mg Maximum Concentrate,Jamieson,27.99,64642021632,765636,1,,60 ct,6,Yes
+35,Maximum Concentrate Cranberry Complex 500 mg,Jamieson,39.99,64642091833,140081,1,,100 ct,6,Yes
+36," Vitamin D3 1,000 IU Tablets",Jamieson,14.99,64642052544,632158,1,,240 ct,6,Yes
+37,Vitamin E 200 IU 100 Softgels,Jamieson,23.99,64642020321,11070,1,,100 ct,6,Yes
+38,Vitamin E 400 IUper268 mg AT Softgels,Jamieson,31.99,64642020376,737098,1,,120 ct,6,Yes
+39,Glucosamine Chondroitin 900 mg Caplets,Jamieson,37.99,64642024213,511758,1,,125 ct,6,Yes
+40,"Liquid Glucosamine 1,500 mg Maximum Strength - Wild Cherry Flavour",Jamieson,23.99,64642027252,644278,1,,350 ml,6,Yes
+41, Niacin 500mg Caplets,Jamieson,13.99,64642022073,27201,1,,100 ct,6,Yes
+42,"Probiotic 30 Billion",Jamieson,32.99,64642057648,112183,1,,30 ct,6,Yes
+43,ACET 120mg – Acetaminophen Suppositories USP,Acet,0,57606043429,0,1,,12 ct,9,Yes
+44,ACET 160mg – Acetaminophen Suppositories USP ,Acet,0,57606043528,0,1,,12 ct,9,Yes
+45,ACET325 Children’s Acetaminophen Suppositories ,Acet,0,57606043627,0,1,,12 ct,9,Yes
+46, JUNIOR CHEWABLE TABLETS - BLUE RASPBERRY ,Advil,0,62107006200,0,1,,20 ct,9,Yes
+47,Strength Advil Chewable Tablets Blue Raspberry ,Advil,0,62107006217,0,1,,40 ct,9,Yes
+48,"Strength Advil Pain Reliever and Fever Reducer Ibuprofen Chewable Tablets, Grape",Advil,0,62107006033,0,1,,40 ct,9,Yes
+49,Children’s Advil Dye Free Suspension (Blue Raspberry Flavour),Advil,0,62107006118,0,1,,100 ml,9,Yes
+50,Children’s Advil Suspension Dye-free Bubble Gum ,Advil,0,62107006415,0,1,,100 ml,9,Yes
+51,Advil Pediatric Drops Dye Free Grape ,Advil,0,62107004336,0,1,,24 ml,9,Yes
+52,Childrens Advil Dye Free Suspension Grape Flavour,Advil,0,62107004343,0,1,,100 ml,9,Yes
+53,Children’s Advil Dye Free Grape ,Advil,0,62107006446,0,1,,230 ml,9,Yes
+54," Kids Syrup Allergy Medicine - 24 Hour Non-Drowsy Kids Allergy Medication, Antihistamines For Kids, Fast Allergy Relief, Bubblegum Flavour",Advil,0,56219312168,0,1,,100 ml,9,Yes
+55,Benadryl Children’s Liquid Bubble Gum Flavour ,Benadryl,0,60093265809,0,1,,100 ml,9,Yes
+56,Childrens Benadryl Allergy Liquid Bubble Gum Flavour ,Benadryl,0,60245955381,0,1,,250 ml,9,Yes
+57,Benadryl Kids Chewable Tabs Grape ,Benadryl,0,62600964120,0,1,,12 ct,9,Yes
+58,"Claritin Kids Syrup Allergy Medicine - 24 Hour Non-Drowsy Kids Allergy Medication, Antihistamines For Kids, Fast Allergy Relief Of Itchy Watery Eyes, Sneezing, Runny Nose, Itchy Skin and Hives",Claritin,0,56219961212,0,1,,120 ml,9,Yes
+59,Herbion Cough Syrup Children,Herbion,0,4607006674837,0,1,,150 ml,9,Yes
+60,GENEXA KIDS PAIN and FEVER ,Genexa,0,857630006878,0,1,,118 ml,9,Yes
+61,"Helixia, Kids Natural Defense",Helixia,0,625972020070,0,1,,120 ml,9,Yes
+62,Advil Tb 200mg Pocket ,Advil,0,62107004015,0,1,,10 ct,10,Yes
+63,Advil Tablets Ibuprofen 200 mg Pain reliever/Fever reducer,Advil,0,62107004091,0,1,,100 ct,10,Yes
+64,Advil Caplets,Advil,0,62107004121,0,1,,24 ct,10,Yes
+65,Advil Extra Strength Caplets,Advil,0,62107004640,0,1,,72 ct,10,Yes
+66,Advil Liqui-Gels,Advil,0,62107004916,0,1,,32 ct,10,Yes
+67,Advil Extra Strength Caplets,Advil,0,62107004626,0,1,,16 ct,10,Yes
+68,Advil Extra-Strength Liqui Gels,Advil,0,62107005012,0,1,,12 ct,10,Yes
+69,Advil Cold & Sinus Caplets,Advil,0,62107004299,0,1,,10 ct,10,Yes
+70,Advil Cold and Sinus Nighttime Caplets,Advil,0,62107005463,0,1,,20 ct,10,Yes
+71,Advil Cold & Sinus Liqui-Gels with Fever Relief and Nasal Decongestant,Advil,0,62107004374,0,1,,20 ct,10,Yes
+72,Advil Cold & Sinus Liqui-Gels with Fever Relief and Nasal Decongestant,Advil,0,62107005302,0,1,,40 ct,10,Yes
+73,"Aspirin 81mg Daily Low Dose Quick Chews, Orange Flavour",Bayer,0,56500359476,0,1,,30 ct,11,Yes
+74,Aspirin Quick Chews,Bayer,0,56500359483,0,1,,100 ct,11,Yes
+75,"ASPIRIN 81mg Quick Chews, Enteric Coated",Bayer,0,56500357755,0,1,,30 ct,11,Yes
+76,ASPIRIN 81mg Daily Low Dose Preventative Treatment,Bayer,0,56500001207,0,1,,120 ct,11,Yes
+77,Aspirin 325mg Coated Regular Strength,Bayer,0,56500124104,0,1,,100 ct,11,Yes
+78,Health One ASA  ,Heath One,0,57606117823,0,1,,150 ct,11,Yes
+79,Apothecare Ibuprofen 100,apothecare,0,771313243346,0,1,,100 ct,10,Yes
+80,Health One ExtraS. Ibuprofen,Heath One,10.99,771313225892,0,1,,24 ct,10,Yes
+81,Health One Ibuprofen liquid,Heath One,10.99,771313244282,0,1,,32 ct,10,Yes
+82,Health One Ibuprofen liquid,Heath One,14.99,771313244299,0,1,,72 ct,10,Yes
+83,Desloratadine Allergy Control ,Teva,0,57606020444,0,1,,30 ct,21,Yes
+84,Benadryl Elixir 100ML,Benadryl,0,60093265182,0,1,,100 ct,21,Yes
+85,Cherry flavoured extra strength benzocaine and menthol lozenges ,Cepacol,0,363824720166,0,1,,16 ct,10,Yes
+86,"Honey and lemon sore throat lozenges, Sensations ",Cepacol,0,363824500607,0,1,,16 ct,10,Yes
+87,"Sensations Sore Throat Lozenges, Lemon",Cepacol,0,363824001579,0,1,,16 ct,10,Yes
+88,"Sensations Sore Throat and Cough, Sore Throat Lozenges",Cepacol,0,363824880051,0,1,,16 ct,10,Yes
+89,"Mucinex ® Multi-Action Cold, Flu & Sore Throat Caplets",Mucinex,0,363824954868,0,1,,20 ct,10,Yes
+90,Mucinex® Chest Congestion Guaifenesin 600 mg Tablets Expectorant (Cough Medicine),Mucinex,0,363824932446,0,1,,20 ct,10,Yes
+91,"NyQuil COMPLETE Cold, Flu, and Congestion Medicine, Honey Flavour",Nyquill,0,56100083825,0,1,,354 ML,10,Yes
+92,Buckley's Mucus & Phlegm Cough Syrup - Buckley's Syrups,Buckleys,0,58478107127,0,1,,150 ML,10,Yes
+93,PROSPAN BY HELIXIA MENTHOL FLAVOUR ,Prospan,0,625972803185,0,1,,200 ML,10,Yes
+94,PROSPAN BY HELIXIA ADULT COUGH SYRUP - MENTHOL ,Prospan,0,625972020094,0,1,,100 ML,10,Yes
+95,Robitussin Cough Control for People with Diabetes,robistussin,0,62107494502,0,1,,115 ML,10,Yes
+96,Robitussin Extra Strength Cough Control Liquid ,robitussin,0,62107482004,0,1,,250 ML,10,Yes
+97,Robitussin Extra Strength Cough Control ,robistussin,0,62107469005,0,1,,100 ML,10,Yes
+98,Robitussin Cough Control ,robistussin,0,62107468008,0,1,,250 ML,10,Yes
+99,Robitussin DM CoughGels,robistussin,0,62107495004,0,1,,20 ct,10,Yes
+100,Robitussin Mucus & Phlegm Syrup Cherry Flavour Extra Strength,robitussin,0,62107471008,0,1,,100 ML,10,Yes
+101,Robitussin Mucus & Phlegm Extra Strength Syrup Cherry,robitussin,0,62107473002,0,1,,250 ML,10,Yes
+102,NeilMed Sinus Rinse Premixed Refill Packets,Neilmed,0,705928002005,0,1,,100 ct,10,Yes
+103,NeilMed Sinus Rinse Complete Kit,neilmed,0,705928001008,0,1,,50 ct,10,Yes
+104,"NeilMed NasaFlo Neti Pot, Natural soothing saline nasal wash",neilmed,0,705928008168,0,1,,100 ct,10,Yes
+105,NEILMED HYPERTONIC - EXTRA STRENGTH - REFILLS ,neilmed,0,705928004009,0,1,,70 ct,10,Yes
+106,Vicks Vaporub Ointment,vicks,0,56100300670,0,1,,115 ML,10,Yes
+107,Vicks VapoRub Lemon Scent Nasal Decongestant Ointment,vicks,0,56100300687,0,1,,100g,10,Yes
+108,Vicks VapoRub for Children ,vicks,0,56100080312,0,1,,50g,10,Yes
+109,"Vicks VapoRub Nasal Decongestant Cough Suppressant Ointment, Lavender Scent, 50g",vicks,0,56100080404,0,1,,50g,10,Yes
+110,"Vicks VBR-5FPC Vapopads Refill Pads, 10 pads",vicks,0,328785105056,0,1,,10pads,10,Yes
+111,Vicks Portable Steam Inhaler,vicks,0,328785401004,0,1,,1,10,Yes
+112,"Betadine Cold Defence Nasal Spray, Betadine Cold Defence Nasal Spray 20ML",betadine,0,60025429095,0,1,,20ml,10,Yes
+113,"BETADINE® Sore Throat Gargle, Sore Throat Gargle 240ml",betadine,0,60025427121,0,1,,240ml,10,Yes
+114,Dristan - Long Lasting Nasal Spray 15ml,dristan,0,850024431041,0,1,,15ml,10,Yes
+115,Drixoral No Drip Extra Moisturizing - 15ml,drixoral,0,56219830150,0,1,,15ml,10,Yes
+116,"Otrivin Medicated Cold & Allergy Relief with Moisturizers, Measured Dose Mist, 20ml",otrivin,0,58478460642,0,1,,20ml,10,Yes
+117,"Otrivin Medicated Cold & Allergy Relief Nasal Decongestant, 30ml Mist Spray",otrivin,0,58478460680,0,1,,30ml,10,Yes
+118,"Otrivin Complete Medicated Cold & Allergy Relief Nasal Decongestant, 20ml Measured dose Mist",otrivin,0,58478106854,0,1,,20ml,10,Yes
+119,Rhinaris Nasal Mist 30mL,rhinaris,0,57606223029,0,1,,30ml,10,Yes
+120,"Rhinaris Nozoil Nasal Spray 10ml, Moisturizes and Lubricates",rhrinaris,0,57606015198,0,1,,10ml,10,Yes
+121,Rhinaris Hypertonic Spray - Nasal Congestion -100ml,rhinaris,0,625972020339,0,1,,100ml,10,Yes
+122,Salinex - Nasal Spray Saline For Adults,salinex,0,57513076305,0,1,,30ml,10,Yes
+123,Salinex Children’s Nasal Spray 30mL,salinex,0,57513076404,0,1,,30ml,10,Yes
+124,"Nasal Drops, Saline Solution Infants/Children 30mL",Salinex,0,57513076602,0,1,,30ml,10,Yes
+125,"Lubricating Nasal Gel 30G, Secaris, For the temporary relief of dryness and irritation within the nose, and for the relief of stuffiness and sneezing.",Secaris,0,57606101303,0,1,,30g,10,Yes
+126,Aspercreme Extra Strength Arthritis Relieving Cream,Aspercreme,0,57990063669,0,1,,106g,12,Yes
+127,Lakota Back Pain Roll-on Pain Reliever Liquid,Lakota,0,697989000505,0,1,,88g,12,Yes
+128,"BIOFREEZE ROLL-ON, FOR ARTHRITIS, BACK PAIN, SORE MUSCLES AND JOINTS",Biofreeze,0,731124000729,0,1,,74ml,12,Yes
+129,Biofreeze Cold Therapy Pain Relief Gel ,Biofreeze,0,731124000712,0,1,,89ml,12,Yes
+130,BIOFREEZE COLD THERAPY SPRAY ,Biofreeze,0,731124000736,0,1,,89ml,12,Yes
+131,"Deep Relief Ice Gel, Muscle and Joint Pain Relief, Reduces Inflammation - Ice Pain Relief Gel",Deepfreeze,0,57521004512,0,1,,255g,12,Yes
+132,"Deep Relief Ice Gel, Muscle and Joint Pain Relief, Reduces Inflammation - Ice Pain Relief Gel",Deepfreeze,0,57521004543,0,1,,500g,12,Yes
+133,Deep Relief Maximum Strength Heat Rub ,Deep Relief,0,57521000293,0,1,,100g,12,Yes
+134,"Deep Relief Regular Strength Warming Heat Pain Relief Patch, Soothe Aching Muscles ",Deep Relief,0,57521009609,0,1,,6 patches,12,Yes
+135,HO ExtraS. Muscle and back pain relief,Health One,0,66000021056,0,1,,18,12,Yes
+136,HO Muscle and back pain relief Ibyuprofen + methocarbamol ,Health One,0,66000021049,0,1,,18,12,Yes
+137,"Icy Hot Extra Strength Pain Relieving Cream for Back, Knee, and Joint Pain Relief - Suitable for Discomfort Caused by Sciatica, Arthritis, and Neck Pain - Fast and Effective on Sprains and Strains",Icy Hot,0,69260046456,0,1,,85g,12,Yes
+138,"Icy Hot No Mess Applicator - Fast, Effective Pain Relief - Quick Drying - for Muscles & Joints - Relieves Minor Pain Associated with Arthritis, Backache, Strains & Sprains, Icy Hot No Mess Applicator ",Icy Hot,0,57990063652,0,1,,73ml,12,Yes
+139,MYOFLEX EXTRA STRENGTH CREAM 15% ,MyoFlex,0,825422000052,0,1,,100g,12,Yes
+140,Salonpas Pain Relieving Patch Large,Salonpas,0,4987188507278,0,1,,4,12,Yes
+141,SALONPAS PAIN RELIEVING PATCH ,Salonpas,0,4987188505045,0,1,,20,12,Yes
+142,VOLTAREN Emulgel Back & Muscle Pain,Voltaren,0,60815057224,0,1,,100g,12,Yes
+143,Voltaren Emulgel 12H Extra Strength ,Voltaren,0,58478110943,0,1,,100g,12,Yes
+144,Voltaren Emulgel Joint Pain Extra Strength,Voltaren,0,60815057248,0,1,,100g,12,Yes
+145,"Voltaren Emulgel Regular Strength Joint Pain, Topical Pain Relief Cream",Voltaren,0,58478107653,0,1,,120g,12,Yes
+146,ZOSTRIX CR 0.025%CREAM ,Zostrix,0,60752000338,0,1,,30g,12,Yes
+147,Anusol Multi-Symptom Hemorrhoid Pain Relief Ointment,Anusol,0,58738999325,0,1,,30g,13,Yes
+148,Anusol Multi-Symptom Hemorrhoid Pain Relief Suppositories,Anusol,0,58738999363,0,1,,24g,13,Yes
+149,Anti nausea ,Health One,0,66000020899,0,1,,10 ct,13,Yes
+150,anti nausea ,Health One,0,66000020905,0,1,,30 ct,13,Yes
+151,Gravol Quick Dissolve Chewable Tablets ,Gravol,0,58738326114,0,1,,8 ct,13,Yes
+152,Gravol Taste Free Liquid Gel ,Gravol,0,58738327029,0,1,,8 ct,13,Yes
+153,Gravol ~ Dimenhydrinate 50mg ,Gravol,0,58738325513,0,1,,10 ct,13,Yes
+154,GRAVOL Kids Comfort-Shaped Suppositories 25mg,Gravol,0,58738325919,0,1,,10 ct,13,Yes
+155,Kids Gravol Liquid Nausea Relief Fruit Flavor,Gravol,0,58738325438,0,1,,75 ml,13,Yes
+156,"Gravol Ginger - Nausea and upset stomach relief with Organic ginger extract - Non-drowsy, Taste-free and Easy to swallow - ",Gravol,0,58738326633,0,1,,20 ct,13,Yes
+157,Gravol Ginger Multi-Symptom Cold and Fever Tablets with Willowbark,Gravol,0,58738326732,0,1,,20 ct,13,Yes
+158,Gaviscon Nausea Natural Ginger Capsules ,Gaviscon,0,42037000936,0,1,,18 ct,13,Yes
+159,SEA-BAND ANTI-NAUSEA WRISTBAND - ADULT,Sea Band,0,872798002913,0,1,,1 ct,13,Yes
+160,SEA-BAND ANTI-NAUSEA WRISTBAND - CHILD,Sea Band,0,872798002920,0,1,,1 ct,13,Yes
+161,Sleep-eze Extra Strength Gelcaps Nighttime Sleep Aid,Sleep Eze,0,75137017207,0,1,,20 ct,14,Yes
+162,Sleep-eze D Extra Strength ,Sleep Eze,0,75137017405,0,1,,10 ct,14,Yes
+163,Webbers - Melatonin 1 mg Quick Dissolve Sublingual Tablets,Webbers,0,625273036046,0,1,,90 ct,14,Yes
+164,Webbers Naturals Melatonin 3 mg ,Webbers,0,625273038255,0,1,,180 ct,14,Yes
+165,Webbers - Melatonin Maximum Strength Quick Dissolve 10 mg,Webbers,0,625273038279,0,1,,60 ct,14,Yes
+166,Jamieson - Melatonin Maximum Strength,Jamieson,0,625273038279,0,1,,72 ct,14,Yes
+167,Jamieson - Melatonin 3 mg - Unflavoured Fast Dissolving Tablets ,Jamieson,0,64642059000,0,1,,100 ct,14,Yes
+168,Jamieson Melatonin 5 mg Extra Strength - Chocolate Mint Flavour Fast Dissolving Tablets,Jamieson,0,64642062123,0,1,,100 ct,14,Yes
+169,Jamieson Melatonin 10 mg Max Strength - Peppermint Flavour Fast Dissolving Tablets ,Jamieson,0,64642077103,0,1,,60 ct,14,Yes
+170,"Melatonin Gummies 10 mg, Cherry Pomegranate",Webbers,0,625273036879,0,1,,60 ct,14,Yes
+171,Bacitin,Bacitin,0,57606490841,0,1,,30g,15,Yes
+172,Barriere Cream,Barriere,10.99,365197326013,0,1,,100g,15,Yes
+173,Sandoz Hydrocortisone,Sandoz,0,57513218637,0,1,,30g,15,Yes
+174,Sandoz Hydrocortisone,Sandoz,0,622082282695,0,1,,23g,15,Yes
+175,OZONOL ANTIBIOTIC PLUS OINTMENT ,Ozonol,0,825422000014,0,1,,30g,15,Yes
+176,OZONOL OINTMENT,Ozonol,0,825422000038,0,1,,60g,15,Yes
+177,"Polysporin Complete Antibiotic Ointment, Heal-Fast Formula,",Polysporin,0,62600252173,0,1,,15g,15,Yes
+178,"Polysporin Original Antibiotic Ointment,",Polysporin,0,62600252234,0,1,,15g,15,Yes
+179,"Band-Aid® Brand Flexible Fabric Adhesive Bandages, Light Brown Skin Tone (BR45), Assorted Sizes",Band Aid,0,62600404244,0,1,,30 Patches,17,Yes
+180,Band-Aid Band-Aid Flexible Fabric Adhesive Bandages Knuckle Fingertip,Band Aid,0,381370044529,0,1,,20 Patches,17,Yes
+181,"Band-Aid Brand Adhesive Bandages with Polysporin Antibiotic Ointment, Pack of Assorted Sizes, for Wound Care and First Aid",Polysporin,0,62600123411,0,1,,20 Patches,17,Yes
+182,"Adhesive Bandages for Kids, Marvel Spiderman",Band Aid,0,381371162833,0,1,,20 Patches,17,Yes
+183,"Band-Aid Brand Adhesive Bandages for Cuts and Scrapes, Skin-Flex, Assorted Sizes Value Pack, Small, Regular, Large,",Band Aid,0,62600253781,0,1,,60 Patches,17,Yes
+184,BANDAID WATERBLOCK FLEX XL ,Band Aid,0,62600476630,0,1,,7 Patches,17,Yes
+185,Band-Aid Brand Water Block Flex Adhesive Bandage - Self Adhesive Wound Care Skin Dressing - Extra Large,Band Aid,0,62600476647,0,1,,7 Patches,17,Yes
+186,"BAND-AID® Brand WATER BLOCK® TOUGH-STRIPS® Extra Large, Adhesive Bandages for Wound Care, Heavy duty Protection for Minor Cuts and Scrapes",Band Aid,0,62600062222,0,1,,10 Patches,17,Yes
+187,"Nexcare™ Tegaderm™ Waterproof Transparent Dressing, 400W, Nexcare",3m,0,51131222137,0,1,,6 Patches,17,Yes
+188,Nexcare™ Steri-Strip™ Skin Closures,3m,0,638060922248,0,1,,18 Patches,17,Yes
+189,"Nexcare™ Gentle Removal Eye Patch KRR-14-CA, Regular",3m,0,51131217294,0,1,,14 Patches,17,Yes
+190,"Nexcare™ Opticlude™ Eye Patch 1539-CA, Regular",3m,0,51119000238,0,1,,20 Patches,17,Yes
+191,"Band-Aid Brand CUSHION-CARE™ Gauze Pads sterile ideal for Minor Cuts, Scrapes & Burns, Non-Adhesive & Individually-Wrapped Wound Care Dressing Pads, Small Size, 2 inches x 2 inches, 25 Count",Band Aid,0,62600963529,0,1,,25 Patches,17,Yes
+192,Paramedic Canada Abdominal Pads 8'' X 10',Paramedic,0,620278011616,0,1,,2 Patches,17,Yes
+193,Band-aid First Aid Rolled Gauze,Band Aid,0,62600125347,0,1,,1 Patches,17,Yes
+194,"Band Aid Brand Flexible Secure Sterile Gauze Roll and Dressing for Minor Wound Care, Soft Padding and Instant Absorption, Large, 10 Centimeters by 4.5 Metres, 1 Count, 1 Sterile Roll, Large",Band Aid,0,62600125361,0,1,,1 Patches,17,Yes
+195,Non stick 10piece 2X3,Health One,0,627980500506,0,1,,10 Patches,17,Yes
+196, self-cling gauze 2.99 Small,Health One,0,627980500520,0,1,,1 roll,17,Yes
+197,non stick 10 piece 3X4,Health One,0,627980500490,0,1,,10 Patches,17,Yes
+198, self-cling gauze 2.99 Medium,Health One,0,627980500537,0,1,,1 roll,17,Yes
+199, self-cling gauze 2.99 Large,Health One,0,627980500544,0,1,,1 roll,17,Yes
+200,Nexcare™ Soft & Stretch Tape,3m,0,51131222519,0,1,,1 roll,17,Yes
+201,Nexcare™ Flexible Clear First Aid Tape Dispenser,3m,0,51131222670,0,1,,1 roll,17,Yes
+202,Primapore 20cm x 10cm ,Primapore,0,5000223420291,0,1,,20 patches,17,Yes
+203,MEPORE PRO 9 x 25 cm Waterproof Self Adhesive Bandage ,Mepore,0,7323190253197,0,1,,30 Patches,17,Yes
+204,Sodium chloride irrigation 500 ml,MPCP,0,853697005274,0,1,,500 ml,17,Yes
+205,alcool isopropylique 70% 450ml,MPCP,0,85412676654,0,1,,450 ml,17,Yes
+206,Betadine ,Betadine ,0,808405005763,0,1,,500 ml,17,Yes
+207,Betadine ,Betadine ,0,60025086175,0,1,,500 ml,17,Yes
+208,Rougier Hydrogen Peroxde 3% 10 Volume Usp ,Rougier,0,58739978473,0,1,,300 ml,17,Yes
+209,"Align Probiotic, daily probiotic supplement for digestive care",Align,0,56100078722,0,1,,14 ct,22,Yes
+210,Almagel,Almagel,0,68625179433,0,1,,30 g,22,Yes
+211,Alpha-Galactosidase Enzyme ,Beano,0,42037103057,0,1,,30 ct,22,Yes
+212,"Citro Mag Laxatif/Purgatif, Citro-Mag is a laxative/purgative used to treat constipation ",Rougier Pharma,0,58739701750,0,1,,300ml,22,Yes
+213,"Citro Mag Laxatif/Purgatif, Citro-Mag is a laxative/purgative used to treat constipation 300ml",Rougier Pharma,0,58739979203,0,1,,300ml,22,Yes
+214,"Glycerin Suppositories - Adult | Gentle Fast Acting Relief of Occasional Constipation, 12 Suppositories",Colace,0,664985010012,0,1,,12 ct,22,Yes
+215,Original Glycerin Suppositories For Infants And Children 12 suppositories,Colace,0,664985010043,0,1,,12 ct,22,Yes
+216, Docusate Sodium Stool Softener Solution – Syrup 4 Mg/ml 250 ml,colace,0,664985010142,0,1,,250 ml,22,Yes
+217,"Bisacodyl – Stimulates the Bowels – Occasional Constipation Relief for Adults in 6-12 Hours - Suitable for Children Over 6 Years & Older, Adults and Breastfeeding Women",Dulcolax,0,57990062969,0,1,,30 ct,22,Yes
+218,Dulcolax Laxative 5mg 30 Tablets,Dulcolax,0,57990062990,0,1,,30 ct,22,Yes
+219,"Bisacodyl Active Ingredient - Effective Relief of Occasional Constipation - Relief Within 15-60 Minutes - Suitable for Children 12 Years & Older, Adults and Breastfeeding Women, 10mg Suppositories",Dulcolax,0,57990062952,0,1,,3 ct,22,Yes
+220,Antacid Effervescing Powder,eno,0,60815007281,0,1,,200g,22,Yes
+221,Saline ENEMA SODIUM PHOSPHATE SALINE 130ML,Fleet,0,301320000191,0,1,,130ml,22,Yes
+222,Saline ENEMA MINERAL OIL 130ML,Fleet,0,301320000184,0,1,,130ml,22,Yes
+223,Gas-x Ultra Strength Softgels,GasX,0,58478103471,0,1,,130 ct,22,Yes
+224,"Gas-X Ultra Strength Fast Gas Relief Soft Gels, 45 soft gels",GasX,0,58478103488,0,1,,45 ct,22,Yes
+225,"Iberogast 100ml, 100ml",Iberogast,0,56500370563,0,1,,100ml,22,Yes
+226,"Lactaid Extra Strength Tablets, 40 Count",Lactaid,0,62600143273,0,1,,40 ct,22,Yes
+227,"Lacteeze Drops for Milk, Treats up to 75 litres",Lacteeze,0,628467006207,0,1,,15 g,22,Yes
+228,"Lactaid Fast Acting Caplets - Lactose Enzyme Break Down - Gas, Bloating or Diarrhea - Milk & Dairy ",Lactaid,0,64541318857,0,1,,40 ct,22,Yes
+229,Lax-A-Fiber - Suitable those for lack dietary fibre,LAX-A FIBER,0,625972020292,0,1,,336 g,22,Yes
+230,Lax-Nema - Sodium Phosphates Enema Immediate relief Acts within minutes,LAX-A-NEMA,0,625972020193,0,1,,130 ml,22,Yes
+231,Teva loperamide,Teva,0,68510234124,0,1,,30 ct,22,Yes
+232,"Metamucil - 3 in 1 MultiHealth Fibre! Fiber Supplement Powder, Orange",Metamucil,0,56100046561,0,1,,575 g,22,Yes
+233,"Metamucil - MultiHealth Fibre! Sugar-Free Fiber Suplement Powder, Orange",Metamucil,0,37000308577,0,1,,425 g,22,Yes
+234,Nexium 24 Hour Acid Reducer ,Nexium,0,62107072007,0,1,,14 ct,22,Yes
+235,"Pepto Bismol Caplets for Nausea, Heartburn, Indigestion, Upset Stomach, and Diarrhea, ",Pepto Bismol,0,56100082101,0,1,,24 ct,22,Yes
+236,"pepto Bismol Liquid for Nausea, Heartburn, Indigestion, Upset Stomach, and Diarrhea Relief, Original Flavor",Pepto Bismol,0,56100008729,0,1,,480 ml,22,Yes
+237,"Phillips Phillips Milk Of Magnesia Mint, Constipation Relief, Cramp Free, Stimulant-free, Saline Laxative",Phillips,0,56500602114,0,1,,350 ml,22,Yes
+238,Relaxa laxative powder sachets 30 sacs,Relaxa,0,665982000129,0,1,,30 ct,22,Yes
+239,"Restoralax Restoralax Powder Laxative, Effective Relief, No Taste, No Grit, No Gas, No Bloating, No Cramps, Convenient 10 Single Dose Sachets 10.0 Pk",Resotralax,0,56219823916,0,1,,10 ct,22,Yes
+240,Senokot Natural Source Laxative 10tb,Senokot,0,60025768408,0,1,,10 ct,22,Yes
+241,Pharmascience Soflax Docusate Sodium,PharmaScience,0,57606434463,0,1,,100 ct,22,Yes
+242,HO Ultra strength Gas relief,Health One,0,66000021001,0,1,,12 ct,22,Yes
+243,Tylenol Infant Drops Cherry,Tynenol,0,62600142061,0,1,,100g,9,Yes
+244,Tylenol Child Grape Susp,Tynenol,0,62600143723,0,1,,100g,9,Yes
+245,"Tylenol Children's Medicine for Fever & Pain, Dye-Free Berry Liquid",Tynenol,0,64541320003,0,1,,100ml,9,Yes
+246,"Tylenol Children's Medicine for Fever & Pain, Dye-Free Bubble-Gum Liquid",Tynenol,0,64541300616,0,1,,100ml,9,Yes
+247,Tylenol Child's Decongestant,Tynenol,0,64541301446,0,1,,100ml,9,Yes
+248,Tylenol Child Cold DM Bubble Gum Liq ,Tynenol,0,64541300623,0,1,,100ml,9,Yes
+249,"Children’s Tylenol Easy Dissolve Natural Wild Berry Acetaminophen Powder - Kids Pain Relief, 160 mg Acetaminophen",Tynenol,0,62600379962,0,1,,16 g,9,Yes
+250,"TYLENOL® Children's Fever and Sore Throat Pain Chewables, Relieves Fever and Sore Throat Pain Grape Flavour, For ages 2-11yrs",Tynenol,0,62600275141,0,1,,20 ct,9,Yes
+251,Tylenol Extra Strength Ez Tabs ,Tynenol,0,62600141118,0,1,,10 ct,9,Yes
+252,"Tylenol Arthritis Pain Relief Acetaminophen 650 mg Caplets, Bonus Pack",Tynenol,0,62600964953,0,1,,215 ct,9,Yes
+253,"Tylenol Complete Cold, Cough & Flu Convenience Pack",Tynenol,0,62600959386,0,1,,24 ct,9,Yes
+254,"Tylenol Extra Strength Complete Cold, Cough & Flu Relief Day Caplets",Tynenol,0,62600946775,0,1,,24 ct,9,Yes
+255,"Tylenol Extra Stength Sinus eZ Tabs, Relieves Sinus congestion & other Sinus syptoms, Nighttime",Tynenol,0,64541317294,0,1,,20 ct,9,Yes
+256,Tylenol Extra Strength Pain Relief Acetaminophen 500mg Caplets,Tynenol,0,62600142504,0,1,,24 ct,9,Yes
+257,Tylenol Extra Strength ,Tynenol,0,62600142511,0,1,,50 ct,9,Yes
+258,Tylenol Extra Strength Pain Relief Acetaminophen 500mg Caplets,Tynenol,0,62600142528,0,1,,100 ct,9,Yes
+259,Tylenol Extra Strength Pain Relief Acetaminophen 500mg Caplets,Tynenol,0,62600347053,0,1,,200 ct,9,Yes
+260,Tylenol Extra Strength Pain Relief Acetaminophen 500mg Rapid Release Gels,Tynenol,0,62600231888,0,1,,80 ct,9,Yes
+261,"Tylenol Extra Strength Pain Reliever Medicine for Headache, Back Pain and to Reduce Fever, Acetaminophen Rapid Release Gelcaps, 500mg",Tynenol,0,62600380050,0,1,,120 ct,9,Yes
+262,Tylenol Regular Strength Pain Relief Acetaminophen 325mg EZTabs,Tynenol,0,62600961013,0,1,,120 ct,9,Yes
+263,Tylenol Regular Strength Pain Relief Acetaminophen 325mg Caplets,Tynenol,0,62600142610,0,1,,24 ct,9,Yes
+264,Tylenol Regular Strength Pain Relief Acetaminophen 325mg Liquid Gels,Tynenol,0,62600963161,0,1,,115 ct,9,Yes
+265,Tylenol Regular Strength Pain Relief Acetaminophen 325mg Caplets,Tynenol,0,62600142641,0,1,,200 ct,9,Yes
+266,Pediatrix Drops for Infants Cherry Flavour ,Pediatrix,0,64589001964,0,1,,24 ct,9,Yes
+267,Pediatrix 160MG/5ML ,Pediatrix,0,64589001971,0,1,,100 ml,9,Yes
+268,Reactine Junior Fast Melt 24 Tablets,Reactine,0,62600962522,0,1,,24 ct,9,Yes
+269,"Reactine Liquid Allergy Medicine - For Itchy Eyes, Hives, Runny Nose - 24 Hour Allergy Relief - White Grape Flavour",Reactine,0,62600316240,0,1,,118ml,21,Yes
+270,Robitussin Children’s Cough & Cold Syrup ,Robitussin,0,62107457101,0,1,,100ml,9,Yes
+271,Boiron - Stodal Child,Boiron,0,774016648968,0,1,,125ml,9,Yes
+272,Anti-Nausea,Health One,3.99,101,0,1,,30 ct,13,Yes
+273,ASA 81mg,Health One,11.99,57606117823,0,1,,150 ct,6,Yes
+274,Calcium 200 size,Health One,17.99,102,0,1,,200 ct,6,Yes
+275,Cold and Flu in 1,Health One,11.99,66000020943,0,1,,30 ct,10,Yes
+276,Cold Med day/night,Health One,10.99,103,0,1,,30 ct,10,Yes
+277,Desloratadine allergy control,Health One,11.99,104,0,1,,30 ct,21,Yes
+278,Rapid Digital Thermometer,Health One,18.99,105,0,1,,1,10,Yes
+279,Sterile Pads 3x3,Health One,5.99,106,0,1,,1 Patches,17,Yes
+280,Ultra Strength Gas,Health One,7.99,107,0,1,,30 ct,22,Yes
+281,Vicks Inhaler,Health One,6.99,108,0,1,,1,21,Yes
+282,Vitamin D3,Health One,9.99,109,0,1,,150 ct,6,Yes
+283,Foam Ear Plugs,Health One,5.99,110,0,1,,1,7,Yes
+284,Ferrous Gluconate,Health One,7.99,111,0,1,,100 ct,6,Yes
+285,Self-Cling Gauze Bandage 2in X 4.1yds,Health One,1.99,112,0,1,,1 Patches,17,Yes
+286,Self-Cling Gauze Bandage 4in x 4.1yds,Health One,2.99,113,0,1,,1 Patches,17,Yes
+287,Muscle Back Platinum Relief,Health One,2.99,114,0,1,,24 ct,12,Yes
+288,Cold + Sinus 10 ,Health One,6.99,66000020950,0,1,,24 ct,10,Yes
+289,Cold + Flu Day/ Night,Health One,10.99,115,0,1,,24 ct,10,Yes
+290,Cold + Flu Liquid Gel,Health One,12.99,116,0,1,,24 ct,10,Yes
+291,Diarrhea Relief,Health One,5.99,117,0,1,,24 ct,22,Yes
+292,Daily Pill Box,Health One,1.99,118,0,1,,1,7,Yes
+293,Oral Medication Dropper,Health One,1.99,119,0,1,,1,7,Yes
+294,Cotton Balls --> Jumbo or Regular (Mansfield),Health One,3.99,120,0,1,,1,17,Yes
+295,Cosmetic Pads,Health One,3.99,121,0,1,,1,7,Yes
+296,Dusoft Sponges,Health One,7.99,122,0,1,,1,7,Yes
+297,Self-Cling Gauze Bandage 3in X 4.1 Yds,Health One,2.49,123,0,1,,1,17,Yes
+298,Sterile Pads 3x4,Health One,6.99,124,0,1,,1,17,Yes
+299,Sterile Pads 2x3 ,Health One,4.99,125,0,1,,1,17,Yes
+300,24 Hour Allergy Remedy,Health One,9.99,126,0,1,,30 ct,21,Yes
+301,Tough Bandages (20),Health One,4.99,127,0,1,,20 ct,17,Yes
+302,Calcium 500mg ( 250 tabs),Health One,14.99,128,0,1,,250 ct,6,Yes
+303,Extra Strength Cetrizine Tabs 10 mg (24 tabs),Health One,12.99,129,0,1,,24 ct,21,Yes
+304,Muscle and Back Pain Platinum Relief,Health One,12.99,130,0,1,,24 ct,12,Yes
+305,Extra Strength Muscle and Back Pain Platinum Relief,Health One,7.99,131,0,1,,24 ct,12,Yes
+306,Ibruprofen Extra Strength ,Health One,10.99,132,0,1,,24 ct,10,Yes
+307,buprofen Extra Strength - Liquid Gels,Health One,10.99,133,0,1,,24 ct,10,Yes
+308, Baby Calming Shampoo and Wash,Burt's Bees,11.99,792850023116,0,1,, 235 ml,9,Yes
+309,Baby ProTectis Drops,Biogaia,44.99,779170137709,162910,1,,5mL,9,Yes
+310,Boiron Coryzalia for colds and cold symptoms,Boiron Coryzalia,19.99,774016738676,536974,1,,60 Tablets,9,Yes
+311,Baby Ddrops 400 IU,D-Drops,0,851228000071,0,1,,2.5 ml,9,Yes
+312,Flintstones Complete Kids Multivitamin Gummies,Flintstones ,0,56500372246,0,1,,180 Gummies,9,Yes
+313,"Hydrasense Ultra-gentle Mist Nasal Spray, Baby Nasal Care, 100% Natural Sourced Seawater, Preservative-free",Hydrasense,0,56219254932,0,1,,210 Ml,9,Yes
+314,Ihle’s 25% Zinc Oxide Paste,Ihle’s ,0,68625130076,0,1,,125g,9,Yes
+315,"Johnson's Baby Powder with Aloe, Vitamin E, and Cornstarch",Johnson's,0,62600114358,0,1,,623 g,9,Yes
+316,Kids 0-9 Sinus-All-in-One Oral Solution with Dropper,Kids 0-9,0,778159453168,0,1,,25ml,9,Yes
+317,HPA Lanolin Nipple Cream 100% natural & safe for baby,Lansinoh,0,44677940504,0,1,,40 Grams,9,Yes
+318,Ovol Drops Mint Flavour,Ovol,0,58738666852,0,1,,15mL,9,Yes
+319,ZINCOFAX ORIGINAL CREAM,Zincofax,0,628791005105,0,1,,50GR,9,Yes
+320,Ointment Extra-Strength Jar,Zincofax,0,628791005136,0,1,,100 g,9,Yes
+321,Hydralyte - Sports Hydration Tablets ,HYDRALYTE,0,9326173003053,0,1,,40 ct,20,Yes
+322,Effervescent Electrolytes Tablets Berry,HYDRALYTE,0,9326173001097,0,1,,15 ct,20,Yes
+323,HYDRALYTE ELECTROLYTE POWDER - BERRY,HYDRALYTE ,0,9326173000472,0,1,,10X5GR,20,Yes
+324,HYDRALYTE ELECTROLYTE POWDER - ORANGE,HYDRALYTE ,0,9326173000465,0,1,,10X5GR,20,Yes
+325,"Pedialyte Electrolyte Powder Sticks, Oral Rehydration Solution",Pedialyte,0,55325001515,0,1,," 8 x 8.5 g, ",20,Yes
+326,"Pedialyte Electrolyte Oral Rehydration Solution, Fruit",Pedialyte,0,55325803652,0,1,,1-L,20,Yes
+327,Vaseline Protective & Pure Petroleum Jelly,Vaseline,0,65656913074,0,1,,375g,3,Yes
+328,Vaseline Original Petroleum Jelly,Vaseline,0,65656201218,0,1,,100 g,3,Yes
+329,Vaseline Original Petroleum Jelly,Vaseline,0,65656912909,0,1,,215 g,3,Yes
+330,Vaseline Original Petroleum Jelly,Vaseline,0,65656912886,0,1,,375 g,3,Yes
+331,"Reusable Underpad, 1 unit, 87 x 188 cm, Blue Waterproof Surface, Backing: White",Formedica,0,775604018804,0,1,,13 ct,7,Yes
+332,Ultrabok - Quilted Underpad ,Formedica,0,775757601809,0,1,,13 ct,7,Yes
+333,"Reusable Underpad, 1 unit, 87 x 188 cm, Blue Waterproof Surface, Backing: White",Formedica,0,775604018828,0,1,,13 ct,7,Yes
+334,PADS - ULTIMATE - REGULAR ,TENA,0,768702497008,0,1,,10 ct,7,Yes
+335,"Ultimate Protective Incontinence Underwear Absorbency, Large",TENA,0,768702723206,0,1,,13 ct,7,Yes
+336,"Ultimate Protective Incontinence Underwear Absorbency, Large, 13 units",TENA,0,768702721028,0,1,,13 ct,7,Yes
+337,"Incontinence Pads for Women, Overnight",TENA,0,768702542821,0,1,,28 Pads,7,Yes
+338,"Incontinence Briefs, Super Absorbency",TENA,0,768702568005,0,1,,14 ct,7,Yes
+339,ULTRA FLUSH WASHCLOTHS ,TENA,0,768702657266,0,1,,48 Cloths,7,Yes
+340,MEN Absorbent Guards,TENA,0,768702507011,0,1,,10 ct,7,Yes
+341,"Intimates Overnight Dry-Fast Core Adult Female Bladder Control Pads, 16 Inch",TENA,0,768702542821,0,1,,28 ct,7,Yes
+342,"Day Incontinence Pad Insert, Regular Absorbency",TENA,0,768702624183,0,1,, 46 ct,7,Yes
+343,Comfort Extra Absorbency Incontinence Pad,TENA ,0,768702623216,0,1,,30 ct,7,Yes
+344,ULTRA FLUSH WASHCLOTHS,TENA,0,768702657266,0,1,,48S,7,Yes
+345,Sensitive Care Extra Coverage Maximum | Incontinence pads,TENA,0,768702542951,0,1,,13 ct,7,Yes
+346,Sensitive Care Ultra Thin Regular Pads,TENA,0,768702451000,0,1,,30 units,7,Yes
+347,"Ultra Thin Daytime Pads without Wings, Size 2, Long, Unscented",Always,0,30772033357,0,1,,24 ct,7,Yes
+348,"Ultra Thin Daytime Pads with Wings, Size 3, Extra Long Super, Unscented",Always ,0,37000899082,0,1,,38 ct,7,Yes
+349,"Xtra Protection 3-in-1 Daily Liners Extra Long With Leakguards, Unscented",Always,0,37000543015,0,1,, 48 ct,7,Yes
+350,"Radiant Overnight Feminine Pads for Women, Size 4 for Nighttime, with Wings, Light Clean Scent",Always ,0,37000820239,0,1,,20 ct,7,Yes
+351,Radiant Pantiliners Regular Wrapped - Unscented,Always,0,37000928638,0,1,,48 Liners,7,Yes
+352,"Infinity Feminine Pads for Women, Size 4 Overnight, with wings, unscented",Always,0,37000820253,0,1,,38 ct,7,Yes
+353,Clotrimaderm Vaginal Cream 2% with Applicator,Taro,0,63691007918,0,1,,50g,7,Yes
+354,Apo Flucanozole 150,Apo,0,771313249744,0,1,,1,19,Yes
+355,"Midol Complete, Fast Multi-Symptom Period Pain Relief",Midol,0,56500372154,0,1,,40 Caplets,19,Yes
+356,"PMS Caffeine-Free, Fast Relief of Pre-Menstrual Period Symptoms",Midol ,0,56500372161,0,1,,40 Caplets ,19,Yes
+357, Vaginal Moisturizer Gel,Replens,0,22600001188,0,1,,2.5ml x 8 applicators,19,Yes
+358,Scentsitive Scents® White Jasmine Daily Intimate Wash,Vagisil,0,11509018045,0,1,,240 mL,19,Yes
+359,Scentsitive Scents® Peach Blossom Daily Intimate Wash,Vagisil,0,11509018076,0,1,,240 mL,19,Yes
+360,Health One Glass Droppers,Health One,0,627980500803,0,1,,2pk,7,Yes
+361,Dropper PS220,PharmaScience,0,63636220341,0,1,,1,7,Yes
+362,Nasal Aspirator PS900 For Children,PharmaScience,0,63636900342,0,1,,1,7,Yes
+363,Mansfield Nasal Aspirator,Mansfield,0,58542010278,0,1,,1,7,Yes
+364,DIGITAL THERMOMETER W/10 SECOND READ,Health One,0,627980500377,0,1,,H ONE DIGITAL THERMOMETER W/10 SECOND READ 1'S,7,Yes
+365,CUTEX NAIL POLISH REMOVER - ULTRA-POWERFUL,CUTEX,0,309971370281,0,1,,200ML,7,Yes
+366,CUTEX NAIL POLISH REMOVER - Strength-Sheild ,CUTEX,0,309971370267,0,1,,200ML,7,Yes
+367,MKO HEEL THAT PAIN,MKO,0,857858000016,0,1,,1,18,Yes
+368,"Air-Pillo Comfort Ultra-Soft Cushioning, 1 unit",Dr.Scholl's,0,888853001340,0,1,,1,18,Yes
+369,Orthotics For Ball of Foot Pain,Dr.Scholl's,0,888853001913,0,1,,1 pair,18,Yes
+370,"Comfort Heel Cushions, Womens",Dr.Scholl's,0,888853001395,0,1,,1 pair,18,Yes
+371,Stylish Step® Ball of Foot Cushions,Dr.Scholl's,0,56219862649,0,1,,1,18,Yes
+372,BUNION RELIEF & TOE CORRECTOR,Dr.Scholl's,0,888853003832,0,1,,1,18,Yes
+373,"Treatment Against Plantar Warts, Clear Away",Dr.Scholl's,0,888853001586,0,1,,1,18,Yes
+374,CALLUS CUSHION with Duragel Technology,Dr.Scholl's,0,888853001623,0,1,,5 piece,18,Yes
+375,One Step Callus Removers,Dr.Scholl's,0,888853001722,0,1,,4 piece,18,Yes
+376,Dr. Scholl's Liquid Corn & Callus Remover Salicylic Acid,Dr.Scholl's,0,888853001609,0,1,,10 ml,18,Yes
+377,Finger Splint Cotton Medium,Formedica,0,775604091685,0,1,,1,18,Yes
+378,Aluminium Finger Splints,Formedica,0,775604091784,0,1,,1,18,Yes
+379,MKO PF SLEEVE,MKO,0,738435173296,0,1,,1,18,Yes
+380,Spenco Gel Ball Of Foot,Spenco,0,38472790037,0,1,,1,18,Yes
+381,Sport Insoles Massaging Gel for Women,Dr.Schools,0,888853001647,0,1,,1 pair,18,Yes
+382,"O’Keeffe’s for Healthy Feet, Relief for Extremely Dry, Cracked Feet",O’Keeffe’s,0,722510132001,0,1,,1,18,Yes
+383,Latex Finger Cots,PharmaSciernce,0,63636002145,0,1,,1,18,Yes
+384,Fungi Nail Ointment,Fungi-Nail,0,628467002520,0,1,,20 ml ,18,Yes
+385,Wartner Wart Removal System,Wartner,0,75137830158,0,1,,10 CT,18,Yes
+386,Plantar Wart Removal System,Wartner,0,75137830165,0,1,,10 CT,18,Yes
+387,Soluver Plus,Soluver,0,67520000064,0,1,,10ml,18,Yes
+388,Hand Exerciser,First Medic,0,872798009837,0,1,,1,7,Yes
+389,Visco-Gel Hammer Toe Cushion,Pedifix,0,92437293353,0,1,,1,18,Yes
+390,Clomitraderm Cream 1%,Taro,0,63691007864,0,1,,30 g,15,Yes
+391,Heel Care Cream,Dermal Therapy,0,68777051649,0,1,,90 g,18,Yes
+392,Maximum Strengh Itch relief Moisturizer cream,Gold Bond,0,57990063713,0,1,,283 g,18,Yes
+393,Micnoazole Nitrate Cream,Micatin,0,365197344307,0,1,,30 g,18,Yes
+394,Tinactin Antifungal Foot Cream,Tinactin,0,56219120305,0,1,,30 g,18,Yes
+395,Instant Hand Sanitizer with Aloe,Purell,0,73852027785,0,1,,591 g,17,Yes
+396,Instant Hand Sanitizer with Aloe,Purell,0,73852402193,0,1,,236 g,17,Yes
+397,Instant Hand Sanitizer with Aloe,Purell,0,73852402186,0,1,,55 g,17,Yes
+398,Instant Hand Sanitizer,Purell,0,73852401073,0,1,,236 g,17,Yes
+399,Advanced Hand Sanitizer Refreshing Gel,Purrell,0,73852401097,0,1,,59 g,17,Yes
+400,Single Use Disposable Face Masks - Pediatric Size,Canadamasq,0,687181824054,0,1,,50 piece,17,Yes
+401,Single Use Disposable Face Masks - Pediatric Size,Canadamasq,0,652069962593,0,1,,50 piece,17,Yes
+402,Tears 1% Lubricant Eye Drop,Alcon,0,300650402019,0,1,,15 ml,16,Yes
+403,Lubricant drops for Contacts lenses,Blink ,12.99,824775902228,625970,1,,10 ml,16,Yes
+404,Intensive moisturizing lubricant eye drops,Blink ,15.99,824775000085,87521,1,,10 ml,16,Yes
+405,Moisturizing lubricant eye drops,Blink ,19.99,824775936315,547695,1,,30 ml,16,Yes
+406,Triple Care Lubricating Eye Drops,Blink ,18.99,824775000290,179670,1,,10 ml,16,Yes
+407,Eye Drops ,Cromolyn ,17.99,57606091833,164094,1,,10 ml,16,Yes
+408,Hypromellose Opthalmic solution eye drops ,Genteal ,10.99,56394500572,138494,1,,10ml,16,Yes
+409,Hydrasense eye drops for dry eyes,Hydrasense,17.99,56500367822,109699,1,,10 ml,16,Yes
+410,Liposic ophthalmic ,Liposalic,8.99,310119017012,304295,1,,10 ml,16,Yes
+411,Opthalmic gel drops ,Bausch + lomb,13.99,10119017417,144600,1,,10 ml,16,Yes
+412,Lubricant Eye drops ,Refresh,19.99,69886005066,275719,1,,30 ml X 2,16,Yes
+413,Refresh - Lubricant eye drops,Refresh,16.99,69886969528,178326,1,,10 ml,16,Yes
+414,Refresh - Lubricant eye drops,Refresh,13.99,69886223958,163502,1,,3.5 ml,16,Yes
+415,Refresh - Optive advanced,Refresh,16.99,69886943078,38458,1,,10 ml,16,Yes
+416,Refresh - Optive advanced,Refresh,25.99,69886947717,56726,1,,10 ml X 2,16,Yes
+417,Refresh - Optive Fusion ,Refresh,27.99,69886954913,81030,1,,10 ml X 2,16,Yes
+418,Refresh - Optive Fusion ,Refresh,81030,69886946079,133906,1,,10 ml,16,Yes
+419,Sooth - Night time ,Bausch + Lomb ,10.99,10119015383,855353,1,,3.5 ml,16,Yes
+420,SYSTANE Complete,Systane ,18.99,56394810015,123564,1,,10ml,16,Yes
+421,Systane Ultra ,Systane ,15.99,56394400346,158909,1,,10 ml,16,Yes
+422,Systane Ultra ,Systane ,23.99,56394700262,159455,1,,30 ml,16,Yes
+423,Systane Bion Tears,Systane ,18.99,56394900389,91993,1,,0.4 ml X 24,16,Yes
+424,Systane Ointment - Nighttime Relief,Systane ,10.99,56394900501,92110,1,,3.5 ml,16,Yes
+425,Tear-Gel,Bausch + Lomb ,15.99,63601662596,193037,1,,10 ml,16,Yes
+426,Tears Naturale Forte,Alcon,12.99,56394600111,66852,1,,15 ml,16,Yes
+427,Tears Naturale II ,Alcon,12.99,56394056956,761395,1,,15 ml,16,Yes
+428,PreserVision ,bausch + Lomb ,39.99,324208625903,178931,1,,120 ct,16,Yes
+429,PreserVision AREDS 2,bausch + Lomb ,23.99,324208697603,182689,1,,60 ct,16,Yes
+430,Preservision AREDS 2,bausch + Lomb ,41.99,324208697627,182688,1,,120 ct,16,Yes
+431,Vitalux Advanced + Omega-3,Alcon,43.99,56394301636,92116,1,,75 ct,16,Yes
+432,Vitalux Advanced,Alcon ,45.99,56394301834,123560,1,,120 ct,16,Yes
+433,Vitalux Advanced - Chewable,Alcon ,29.99,56394301315,75130,1,,50 ct,16,Yes
+434,Clear-Care Plus,Clear Care,21.99,56394300547,92806,1,,360 ct,16,Yes
+435,Re-Nu Fresh Travel Kit,Bausch & Lomb,6.99,10119039822,162163,1,,1,16,Yes
+436,Solo Care Aqua,Monicon,28.99,853253003171,87662,1,,350 ml X 2,16,Yes
+437,Sensitive Eyes - Saline Plus,bausch + Lomb ,6.99,10119008415,322644,1,,355ml,16,Yes
+438,Systane Lid Wipes ,Alcon ,14.99,56394200069,35321,1,,32 ct,16,Yes
+439,Similasan Ear Wax Removal Kit,Similasan,15.99,94841755151,128374,1,,1 kit,16,Yes
+440,Murine Ear Wax Removal ,Murine,9.99,678112736256,731125,1,,15ml,16,Yes
+441,Vinyl Eye Patch - Black ,PharmaScience,3.49,63636009458,542357,1,,1 Patch,16,Yes
+442,Eye Mask ,Bausch + Lomb,12.99,310119022740,61966,1,,1 Mask,16,Yes
+443,Colgate Extra Clean ToothBrush,Colgate,0,58000308763,1,1,,1,1,Yes
+444,BulterWeave - Dentral String Floss ,GUM ,0,70942004985,0,1,,1,1,Yes
+445,Proxabrush ,GUM ,0,70942305136,0,1,,10 ct,1,Yes
+446,Essential Floss ,Oral-B,0,300410825768,0,1,,1,1,Yes
+447,Plackers - MicroMint,Plackers,0,651080196048,0,1,,75 ct,1,Yes
+448,Soft-Picks,GUM ,0,70942304467,0,1,,80 ct,1,Yes
+449,Stim-u-dent,The Natural Dentist,0,334362000133,0,1,,100 ct,1,Yes
+450,EEZ-THRU,GUM ,0,70942098403,0,1,,25 ct,1,Yes
+451,Orabase = Oral protective paste,Convatec,0,768455108763,0,1,,7.5 g,1,Yes
+452,Superfloss,Oral-B,0,300410825706,0,1,,50 ct,1,Yes
+453,Orajel - Canker Sores,OraJel,0,59972101604,0,1,,9.5 g,1,Yes
+454,Orajel - Maximum toothache Relief,Orajel ,0,59972071303,0,1,,9.5 g,1,Yes
+455,Soft-Picks,GUM ,0,70942304467,0,1,,80 pc,1,Yes
+456,AquaFresh Cavity Protection + daily Care ,AquaFresh,0,60815035529,0,1,,90ml,1,Yes
+457,AquaFresh Whitening Toothpaste ,AquaFresh,0,60815034881,0,1,,90ml,1,Yes
+458,Colgate Total Whitening Toothpaste Gel ,Colgate,0,58000142176,0,1,,170ml,1,Yes
+459,Prevident 5000 plus ,Colgate,0,38341287026,0,1,,39ml,1,Yes
+460,Prevident 5000 plus - Booster Plus,Colgate,0,38341105955,0,1,,100ml,1,Yes
+461,Fixodent Ultra Max HOld denture Adhesive Cream,Fixodent,0,56100079996,0,1,,62 ml X 2,1,Yes
+462,Sysnsodyne whitening and tar sensitivity ,Sensodyne ,0,60815030425,0,1,,18 ml,1,Yes
+463,Sensodyne Sensitivity and gum ,Sensodyne ,0,60815307763,0,1,,75 ml,1,Yes
+464,Gentle Whitening Enamel Care,Pronamel ,0,60815030340,0,1,,75 ml,1,Yes
+465,Rapid Relief Daily sensitivity Toothpaste,Sensodyne ,0,60815052854,0,1,,75 ml,1,Yes
+466,Pro-health Gum detoxify and restore,Crest,0,30772062067,0,1,,90 ml,1,Yes
+467,Pro-health Gum detoxify and restore,Crest,0,56100083177,0,1,,110 ml,1,Yes
+468,Dry Mouth Moisturizing Mouthwash,Biotenen,0,60815062013,0,1,,473 ml,1,Yes
+469,Dry Mouth Moisturizing Spray,Biotene,0,60815063461,0,1,,44 ml,1,Yes
+470,OralBalance Moisturizing Gel ,OralBalance,0,60815062037,0,1,,42 ml,1,Yes
+471,Listerine Zero,Listerine,14.99,62600953957,6609,1,,1L ,1,Yes
+472,Listerine Zero,Listerine,0,62600349828,0,1,,1L ,1,Yes
+473,Listerine Zero,Listerine,0,62600959768,0,1,,1L ,1,Yes
+474,Opti-Rinse Plus (grape),Opti-Rinse,0,663635001226,0,1,,500 ml,1,Yes
+475,Opti-Rinse Plus (Green Apple),Opti-Rinse,0,663635001233,0,1,,500 ml,1,Yes
+476,Mouthwash,Orajel,18.99,59972102557,0,1,,473 ml,1,Yes
+477,Polident Overnight Daily Denture Cleaner,Polident ,8.99,69682040193,511200,1,,40 ct,1,Yes
+478,Polident Overnight Daily Denture Cleaner,Polident ,14.99,69682165001,278218,1,,96 ct,1,Yes
+479,Pastilles 100% - Peppermint,X-Pur ,11.99,663635000298,30223,1,,130 ct,1,Yes
+480,Pastilles 100% - Fruit,X-Pur,11.99,663635000304,30229,1,,130 ct,1,Yes
+481,XyliMelts - Dry Mouth,Oracoat,20.99,855933000715,151485,1,,40 ct,1,Yes
+482,Gillette - Series Sensitive Shave Gel ,Gilllette ,0,47400130920,0,1,,75g,2,Yes
+483,Moisturing Shave Gel,Gilllette ,0,47400130715,0,1,,75g,2,Yes
+484,Fusion Gydra Ultra-sensitive Gel ,Gilllette ,0,47400159051,0,1,,75g,2,Yes
+485,Satin Care Dry Skin,Gilllette ,0,47400141506,0,1,,198g,2,Yes
+486,Itech Defense Calming Lotion ,Curel ,0,62400154752,0,1,,480g,2,Yes
+487,Revitlizing Vitamin E moisturizer,Jergens,0,62400254452,0,1,,620g,3,Yes
+488,Syndet AP+ Soap-Free Face and body wash ,Lipikar ,0,3337875537315,0,1,,400g,3,Yes
+489,Ultra Sheer Dry-Touch Sunscreen SPF 60,Neutrogena,0,62600380562,0,1,,88g,3,Yes
+490,NIVEA MEN Sensitive Skin After Shave Balm,Nivea,0,72140813062,0,1,,100g,2,Yes
+491,Maximum Hydration Moisturizing Post Shave Balm with Aloe Vera,Nivea,0,72140813000,0,1,,100g,2,Yes
+492,Originals Extra Moisture Shaving Gel ,Nivea,0,72140817602,0,1,,7 oz,2,Yes
+493,Protect and Care Face Lotion ,Nivea,0,56594888081,0,1,,75g,2,Yes
+494,Anti Dandruff Shampoo,Nizoral,0,628467002711,0,1,,60ml,4,Yes
+495,Shampoo Psoriasis,Nizoral,0,628467002797,0,1,,200ml,4,Yes
+496,Vitamin-C Day serum ,Garnier,0,3600542444149,0,1,,30ml,3,Yes
+497,Cicaplast Baume B5 Soothing Relieving Balm ,Laroche-Posay ,0,3337875848121,0,1,,100ml,3,Yes
+498,Mineral Oil,Atlas,0,68625160394,0,1,,500ml,4,Yes
+499,Sebcur Medicated Shampoo,Sebcur,0,67520000019,0,1,,120ml,4,Yes
+500,Sebcur T Medicated Tar Shampoo,Sebcur,0,67520000026,0,1,,120ml,4,Yes
+501,Spectro Jel Unscented,Spectro,0,60815041032,0,1,,200ml,4,Yes
+502,Spectro Facial Cleanser for combination skin ,Spectro,0,60815041599,0,1,,500ml,3,Yes
+503,Proskin Barrier Cream,Tena,0,768702544412,0,1,,100ml,3,Yes
+504,URisec Cream 22%,Urisec,0,776097220651,0,1,,225ml,3,Yes
+505,Vitamin E first-aid Ointment ,Webber ,0,65798431092,0,1,,50ml,3,Yes
+506,Vitamin E first-aid Ointment Tube ,Webber ,0,65798431078,0,1,,50ml,3,Yes
+507, Itch Eraser Instant Relief Gentle Cream,After Bite ,0,44224017048,0,1,,20ml,5,Yes
+508,Kids - Itch Eraser Instant Relief Gentle Cream,After Bite ,0,44224610805,0,1,,20ml,5,Yes
+509,Itch stopping Cream topical ,Benadryl ,0,62600305664,0,1,,28ml,5,Yes
+510,Daily Protective Skin Moisturizer,Dormer,0,57368100293,0,1,,60ml,3,Yes
+511,Botanicals Insect repellent,OFF!,0,62300007554,0,1,,118ml,5,Yes
+512,Deep-Woods Insect Repellent,OFF!,0,62300708314,0,1,,85ml,5,Yes
+513,Vitamin B12,Webber,0,625273030778,0,1,,150ct,6,Yes
+514,Natural Vitamin B12,Swiss,0,68120238024,0,1,,90ct,6,Yes
+515,Double Action Vitamin C and Zinc - Orange,Redoxon,0,56500364456,0,1,,15ct,6,Yes
+516,Vitamin B - Orange,Redoxon,0,56500359445,0,1,,10ct,6,Yes
+517,Vitamin C 500mg - Chewable,Webber,0,625273035889,0,1,,120ct,6,Yes
+518,Vitamin C 500mg - Chewable,Webber,0,625273032765,0,1,,300ct,6,Yes
+519,Clacium Citrate - 300mg ,Webber,0,625273050165,0,1,,120ct,6,Yes
+520,Calcium Magensium Vitamin D3 ,Webber,0,625273038668,0,1,,200ct,6,Yes
+521,Caltrate + Vitamin D3 - 800IU,Caltrate,0,62107055307,0,1,,60ct,6,Yes
+522,Caltrate Plus - Osteoperosis,Caltrate,0,62107257008,0,1,,60ct,6,Yes
+523,Caltrate Plus - Chewables ,Caltrate,0,62107055901,0,1,,50ct,6,Yes
+524,Cod Liver Oil with Vitamins A and D,Webbers,0,625273050868,0,1,,180ct,6,Yes
+525,Coenzyme Q10 200mg,Webbers,0,625273038576,0,1,,60ct,6,Yes
+526,Coenzyme Q10 100mg ,Nature's Bountry ,0,29537511353,0,1,,60ct,6,Yes
+527,Vitamin D3 + Calcium ,Webbers,0,629323100602,0,1,,220ct,6,Yes
+528,MultiGummies,Centrum ,0,62107090827,0,1,,70ct,6,Yes
+529,MultiGummies ,Centrum ,0,62107090834,0,1,,150ct,6,Yes
+530,MultiGummies Adults - 50+,Centrum ,0,62107090872,0,1,,130ct,6,Yes
+531,Select Essentials Adults - 50+,Centrum ,0,62107086523,0,1,,60ct,6,Yes
+532,Men - 50+,Centrum ,0,62107084802,0,1,,90ct,6,Yes
+533,Women - 50+,Centrum ,0,62107084604,0,1,,90ct,6,Yes
+534,Cholessterol w/Vegapure ,Swiss,0,68120918018,0,1,,50ct,6,Yes
+535,Liquid Vitamin D3,Ddrops,0,851228000040,0,1,,180ct,6,Yes
+536,Liquid Vitamin D3 - Extrea Strength ,Ddrops,0,851228000965,0,1,,180ct,6,Yes
+537,Vidextra Vitamin D3 2000IU,Vidextra,0,622082291147,0,1,,100ct,6,Yes
+538,Vitamin E 400IU,Webbers,0,625273038002,0,1,,120ct,6,Yes
+539,Vitamin C ,Nature's Bountry ,0,29537000505,0,1,,90ct,6,Yes
+540,Flaxseed Oil 1000mg,Webbers,0,625273038712,0,1,,210ct,6,Yes
+541,Triple Strength Glucosamine and chondroitin ,Webbers,0,625273050332,0,1,,90ct,6,Yes
+542,Glucosamine Chondroitin ,Webbers,0,625273050707,0,1,,150ct,6,Yes
+543,Vitamin K2 100mcg,Nutrameltz,0,684482024015,0,1,,60ct,6,Yes
+544,Omega-3 Krill Oil 500mg,RoyalRed,0,625273033908,0,1,,60ct,6,Yes
+545,Lutein 40mg ,Nature's Bountry ,0,29537319416,0,1,,75ct,6,Yes
+546,Magnesium Gluceptate Oral Solution 100mg/ml,Odan ,0,776097430500,0,1,,500ml,6,Yes
+547,Magnesium oxide 420mg ,Swiss,0,68120505010,0,1,,90ct,6,Yes
+548,Magnesium Bisglycinate 200mg ,Webbers,0,625273032550,0,1,,60ct,6,Yes
+549,Magnesium Citrate 150mg ,Webbers,0,625273050004,0,1,,120ct,6,Yes
+550,Multivitamins ,Webbers,0,625273031454,0,1,,100ct,6,Yes
+551,Multivitamins w/Minerals,Webbers,0,625273031416,0,1,,100ct,6,Yes
+552,Women's Multivitamin ,Greeniche,0,817510001027,0,1,,60ct,6,Yes
+553,Multivitamin Pomegranate liquid,Wampole,0,63806270305,0,1,,350mL,6,Yes
+554,St.John's Wort 300mg,Webbers,0,625273038415,0,1,,90ct,6,Yes
+555,Omega-3,Greeniche,0,817510001119,0,1,,30ct,6,Yes
+556,Omega-3 300mg - Easy swallow ,Webbers,0,625273033915,0,1,,180ct,6,Yes
+557,One-a-day,Bayer,0,56500372796,0,1,,90ct,6,Yes
+558,One-a-day - Men 50+,Bayer,0,56500372819,0,1,,90ct,6,Yes
+559,Replavite B and C,Lankmark Medical ,0,625273073256,0,1,,100ct,6,Yes
+560,Ubiquinmol 100mg,Webbers,0,625273032956,0,1,,30ct,6,Yes
+561,Venixxa ,Venixxa,0,771547004119,0,1,,30ct,6,Yes
+562,Esenvia Legs,Esenvia,0,625972019548,0,1,,30ct,6,Yes
+563,Ensure Can,Ensure,2,55325207184,0,1,,1,6,Yes
+564,Ensure Bottle,Ensure,3,55325004134,0,1,,1,6,Yes
+565,Beneprotein Instant Protein Powder,Nestle,0,43900291703,0,1,,227g,6,Yes
+566,Just Protein - Unflavoured Instant protein powder,Boost,0,41679990254,0,1,,227g,6,Yes
+567,Pill Box 7day,Pharma Science,0,63636270346,0,1,,1,7,Yes
+568,Daily Pill Box ,Health One,0,627980500742,0,1,,1,7,Yes
+569,Pill Box 7day,Card Health,0,872798001275,0,1,,1,7,Yes
+570,Pill organizer - Twice Daily ,Card Health,0,872798001282,0,1,,1,7,Yes
+571,Twice daily pill and vitamin planner - Extra Large,PharmaScience,0,63636002800,0,1,,1,7,Yes
+572,Pill Crusher  3 in 1 ,Mansfield ,0,58542555885,0,1,,1,7,Yes
+573,Plastic Round Pill box ,Health One,3.99,627980500728,0,1,,1,7,Yes
+574,COLD/HOT GEL PACK - SMALL,MKO,0,738435173241,0,1,,1,7,Yes
+575,COLD/HOT GEL PACK - MEDIUM,MKO,0,738435173258,0,1,,1,7,Yes
+576,COLD/HOT GEL PACK - LARGE,MKO,0,738435173265,0,1,,1,7,Yes
+577,Reusable Therma Kool Hot-Cold Compress- 6 x 9.75 in,Therma Kool,0,10824000698,0,1,,1,7,Yes
+578,Contour next One Meter,Ascencia,0,629322078261,0,1,,1,8,Yes
+579,Contour Next Gen,Ascencia,0,629322079237,0,1,,1,8,Yes
+580,MICROLET® Coloured Lancets,Microlet,0,629322065865,0,1,,100ct,8,Yes
+581,MICROLET® Coloured Lancets,Microlet,0,629322065506,0,1,,200ct,8,Yes
+582,Sterile Single-Use Safety Lancets,SingleLet,0,629322058508,0,1,,200ct,8,Yes
+583,Lancets Softclix 100 Pack,Accuchek,0,64562213223,0,1,,100ct,8,Yes
+584,Lancets Softclix 200 Pack,Accuchek,0,64562213216,0,1,,200ct,8,Yes
+585,Sterile Lancets 28 Gauge,Freestyle,0,93815704270,0,1,,28ct,8,Yes
+586,Verio Reflect,OneTouch,0,353885011730,0,1,,1,8,Yes
+587,Verio Flex,OneTouch,0,353885010726,0,1,,1,8,Yes
+588,Delica Plus 30g Lancet,OneTouch,0,812608030071,0,1,,100ct,8,Yes
+589,Delica® Plus 33G Lancet,OneTouch,0,812608030064,0,1,,100ct,8,Yes
+590,Talking Blood Pressure Monitor,Lifesource,0,93764602948,0,1,,1,8,Yes
+591,Essential Wrist BP Monitor UB-525,Lifesource,0,93764604010,0,1,,1,8,Yes
+592,UP-100CN Fingertip Pulse Ox,LifeSource,0,93764604157,0,1,,1,8,Yes
+593,"Glucose Tablets, Grape",Dex-4,0,57565949466,0,1,,10ct,8,Yes
+594,"Glucose Tablets, Rasberry",Dex-4,0,57565949442,0,1,,10ct,8,Yes
+595,"Glucose Tablets, Orange",Dex-4,0,57565949435,0,1,,10ct,8,Yes
+596,Dex4 Glucose tablets Assorted Fruits,Dex-4,0,57565961154,0,1,,50ct,8,Yes
+597,No Calorie Sweetener Packets,Splenda,0,722776200070,0,1,,100ct,8,Yes
+598,Splenda Packets Sweetener,Splenda,0,722776200216,0,1,,100ct,8,Yes
+599,Alcohol Swabs,BD,0,382903269105,0,1,,100ct,8,Yes
+600,Needles 30g X 8mm,Novofine,0,59014862036,0,1,,100ct,8,Yes
+601,Needles 6mm 32G,NovoFine,0,59014866010,0,1,,100ct,8,Yes
+602,Ultra-Fine Pen Needle 8mm 31G,BD,0,382903201082,0,1,,100ct,8,Yes
+603,Ultra-Fine Pen Needle 5mm 31G,BD,0,382903201457,0,1,,100ct,8,Yes
+604,ULTRA FINE NANO PRO 4MM X 32G Pen Needle,BD,0,382903205554,0,1,,100ct,8,Yes

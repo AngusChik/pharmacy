@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block title %}Inventory{% endblock %}
+
+{% block content %}
+<h2>Inventory</h2>
+
+<!-- Barcode search and category filter form -->
+<form method="get" action="{% url 'inventory_display' %}">
+    <label for="barcode-search">Search by Barcode:</label>
+    <input type="text" id="barcode-search" name="barcode_query" value="{{ barcode_query|default_if_none:'' }}" placeholder="Enter barcode...">
+
+    <label for="category-select">Filter by Category:</label>
+    <select id="category-select" name="category_id">
+        <option value="">All Categories</option>
+        {% for category in categories %}
+        <option value="{{ category.id }}" {% if category.id == selected_category_id %}selected{% endif %}>
+            {{ category.name }}
+        </option>
+        {% endfor %}
+    </select>
+    
+    <button type="submit">Filter</button>
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>Barcode</th>
+            <th>Product</th>
+            <th>Product Number</th>
+            <th>Category</th>
+            <th>Brand</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Unit Size</th>
+            <th>Quantity in Stock</th>
+            <th>Edit</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for product in page_obj %}
+        <tr>
+            <td>{{ product.barcode }}</td>
+            <td>{{ product.name }}</td>
+            <td>{{ product.item_number }}</td>
+            <td>{{ product.category.name }}</td>
+            <td>{{ product.brand }}</td>
+            <td>{{ product.price }}</td>
+            <td>{{ product.description }}</td>
+            <td>{{ product.unit_size }}</td>
+            <td>{{ product.quantity_in_stock }}</td>
+            <td><a href="{% url 'edit_product' product.product_id %}">Edit</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<div class="pagination">
+    <span class="step-links">
+        {% if page_obj.has_previous %}
+            <a href="?page=1{% if barcode_query %}&barcode_query={{ barcode_query }}{% endif %}{% if selected_category_id %}&category_id={{ selected_category_id }}{% endif %}">First</a>
+            <a href="?page={{ page_obj.previous_page_number }}{% if barcode_query %}&barcode_query={{ barcode_query }}{% endif %}{% if selected_category_id %}&category_id={{ selected_category_id }}{% endif %}">Previous</a>
+        {% endif %}
+
+        <span class="current">
+            Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}.
+        </span>
+
+        {% if page_obj.has_next %}
+            <a href="?page={{ page_obj.next_page_number }}{% if barcode_query %}&barcode_query={{ barcode_query }}{% endif %}{% if selected_category_id %}&category_id={{ selected_category_id }}{% endif %}">Next</a>
+            <a href="?page={{ page_obj.paginator.num_pages }}{% if barcode_query %}&barcode_query={{ barcode_query }}{% endif %}{% if selected_category_id %}&category_id={{ selected_category_id }}{% endif %}">Last</a>
+        {% endif %}
+    </span>
+</div>
+
+{% endblock %}
